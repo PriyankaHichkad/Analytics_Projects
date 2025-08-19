@@ -27,9 +27,9 @@ Some of the key projects consolidated in this repository are:
 - **Hotel Bookings Analysis (R Programming)** → Analyzed booking patterns, cancellations, and customer preferences using R.
 - **MI vs CSK 2024 Cricket Match Analysis (Python)** → Match insights, player performance trends, and visual breakdown using Jupyter Notebook.
 - **Retail Store Transaction Analysis (RFM Analysis, Python)** → Customer segmentation and purchasing behavior analysis through Recency, Frequency, and Monetary value.
-- **Sentiment Analysis on McDonald’s Reviews (Python)** → Extracted customer sentiment and opinions using NLP techniques.
+- **Sentiment Analysis on McDonald’s Reviews (Python)** → Extracted customer sentiment and opinions using TextBlob.
 - **Mumbai Restaurant Data Cleaning & Analysis (Python)** → Preprocessed raw data and derived insights into restaurant trends and customer preferences.
-- **Interactive Dashboard on Mumbai Restaurant Data (Power BI)** → Built a dynamic dashboard for visualization and decision-making from the cleaned dataset.
+- **Interactive Dashboard on Mumbai Restaurant Data (Power BI)** → Built a dynamic dashboard for visualization and decision-making from the above cleaned dataset.
 - **Case Competition-IIMBodhGaya (PDF Report)** → Market analysis and strategic solutions for a hypothetical company’s expansion in Tier-3 cities.
 (More projects continuously added...)
 
